@@ -2,7 +2,7 @@
     <img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgzYjA3OWIzZTc5YjliYzk3MDI0MzE3Yjk0YzU4MzA2YmJkODMwNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/c99Uz9aV6RMrYLlg3U/giphy-downsized-large.gif" />
     <h2 align="center">▶▶▶   💻 Nelson Bocanegra 🔋   ◀◀◀</h2>
     <h4 align="center">Soy una persona apasionada por el diseño y la programación. A lo largo de los años, he adquirido habilidades sólidas en el manejo de herramientas de diseño como Corel Draw, Photoshop y Figma. Estas herramientas me permiten dar vida a mis ideas creativas y plasmarlas en diseños atractivos y visualmente impactantes.
-            Además de mis conocimientos en diseño, también tengo una comprensión básica de lenguajes de programación como HTML, CSS, React y JavaScript. Estas habilidades me han permitido llevar a cabo pequeños proyectos de programación, donde he creado interfaces interactivas y funcionales para sitios web y aplicaciones.</h4>
+            Además de mis conocimientos en diseño, también tengo una comprensión básica de lenguajes de programación como HTML, CSS, React y JavaScript. Estas habilidades me han permitido llevar a cabo pequeños proyectos de programación, donde he creado interfaces interactivas y funcionales para sitios web y aplicaciones. Ahora, me estoy adentrando en el fascinante mundo de la ciberseguridad.</h4>
 </div>
 
 ---
