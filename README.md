@@ -13,12 +13,12 @@
 <div align="left">
     <h3> 💪 Lenguajes y herramientas 👨‍💻  </h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="REACT" alt="REACT" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="JS" alt="JS" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="FIGMA" alt="FIGMA" width="40" height="40" />&nbsp;
-        <img src="https://curso-coreldraw.com.es/wp-content/uploads/2021/04/logo-coreldraw-green-180.png"  title="COREL" alt="COREL" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="HTML5" alt="HTML" width="40" height="20" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="20" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="REACT" alt="REACT" width="40" height="20" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="JS" alt="JS" width="40" height="20" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="FIGMA" alt="FIGMA" width="40" height="20" />&nbsp;
+        <img src="https://curso-coreldraw.com.es/wp-content/uploads/2021/04/logo-coreldraw-green-180.png"  title="COREL" alt="COREL" width="40" height="20" />&nbsp;
     </div>
 </div>
 
